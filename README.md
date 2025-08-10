@@ -28,15 +28,15 @@ A fully functional e-commerce website built with vanilla JavaScript, featuring a
 [Live Demo](https://Mosjdeed.github.io/ecommerce-mawjood)
 
 ## 📁 Project Structure
-ecommerce-mawjood/
-├── assets/
-│   ├── style.css          # Custom styles and animations
-│   └── images/            # Project images
-├── js/
-│   └── main.js           # Main JavaScript functionality
-├── index.html            # Main homepage
-├── products.json         # Product catalog data
-└── README.md            # Project documentation
+- ecommerce-mawjood/
+- ├── assets/
+- │   ├── style.css          # Custom styles and animations
+- │   └── images/            # Project images
+- ├── js/
+- │   └── main.js           # Main JavaScript functionality
+- ├── index.html            # Main homepage
+- ├── products.json         # Product catalog data
+- └── README.md            # Project documentation
 
 ## How to get
 **Clone the repository**
