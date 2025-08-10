@@ -2,7 +2,7 @@
 
 A fully functional e-commerce website built with vanilla JavaScript, featuring a dynamic product catalog, shopping cart, wishlist, and user authentication.
 
-## 📸 Screenshots
+## 📸
 <img width="1903" height="965" alt="image" src="https://github.com/user-attachments/assets/d7871a54-7673-4d69-be99-1953c1a99889" />
 
 ## ✨ Features
